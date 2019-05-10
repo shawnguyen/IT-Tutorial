@@ -82,3 +82,5 @@ ___
 **Scenario:** You work a video game store and just got a new shipment of games. You are assigned to organization all the game into different categories within a Python code.
 
 - Genres: Sports, RPGs, Shooters, Action/Adventure, Racing, and Children
+
+Then print out the outputs!
