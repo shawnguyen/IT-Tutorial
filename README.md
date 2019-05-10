@@ -1,6 +1,6 @@
 # IT Tutorial: Making an Array in Python
 ## Shawn Nguyen
-### An array is a variable that gives you the ability to hold more than one variable within a variable at a time. By doing this, it helps save time and organization.
+### An array is a variable that gives you the ability to hold more than one variable within a variable at a time. By doing this, it helps save time and with organization.
 #### Target Audience: Beginner Level
 
 **Scenario:** You work at sports department store that carries multiple athletic clothing brands from Nike, Adidas, and many more. You were assigned to separate the t-shirts by brand through a Python code.
