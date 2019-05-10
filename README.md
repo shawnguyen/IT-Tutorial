@@ -2,7 +2,6 @@
 ## Shawn Nguyen
 ### An array is a variable that gives you the ability to hold more than one variable within a variable at a time. By doing this, it helps saving time and organization.
 #### Target Audience: Beginner Level
-Final Project: IT Tutorial for INFOTC 1000
 
 **Scenario:** You work at sports department store that carries multiple athletic clothing brands from Nike, Adidas, and many more. You were assigned to separate the t-shirts by brand through a Python code.
 
@@ -59,7 +58,7 @@ for x in Brands:
   print(x)
 ```
 
-*Output*
+*Output:*
 
 ```
 All brands:
